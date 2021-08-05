@@ -1,4 +1,5 @@
 <?php 
+//database
     include('admin/config/apply.php');
     ob_start();
     include('box/header.php');
