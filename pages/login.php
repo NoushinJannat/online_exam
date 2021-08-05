@@ -1,5 +1,8 @@
 <!--Body Starts Here-->
         <div class="main">
+        <div class="login_img">
+            <img src="box/img/2.jpg" alt="ttt">
+        </div>
             <div class="login">
                 <form method="post" action="">
                     <h2>Log In</h2>

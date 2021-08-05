@@ -26,17 +26,12 @@
         <!--CSS File Starts Here-->
         <link rel="stylesheet" type="text/css" href="<?php echo SITEURL; ?>/assets/css/style.css" />
         <!--CSS File Ends Here-->
-    </head>
-    
-    <body>
+        </head>
+
+        <body>
         <!--Header Starts Here-->
-        <header class="header">
-            <div class="wrapper clearfix">
-               
-                
-                <div class="head-title">
-                    <h1>Online Test Preparation Portal</h1>
-                </div>
-            </div>
-        </header>
+      
+    </body>
+
+</html>
         <!--Header Ends Here-->
